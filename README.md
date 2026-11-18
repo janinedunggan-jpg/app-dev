@@ -1,7 +1,7 @@
 # app-dev
 My first repository.
 
-# My Favorite Series: Wednesday 🖤
+# My Favorite Series: Wednesday
 
 **Wednesday** is a supernatural mystery comedy series on Netflix based on the character Wednesday Addams from *The Addams Family*.
 
